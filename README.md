@@ -30,7 +30,7 @@ This following visuals use the **ServicingRings.ps1** script.
 
 ![Servicing visualization](/images/servicingoverview.png)
 
-<br><br>
+<br>
 
 ![Historical servicing visualization](/images/historicalservicingcomparison.png)
 
