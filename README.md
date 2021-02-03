@@ -26,7 +26,7 @@ This visual uses the following scripts.
 
 ### Servicing
 
-This following visuals use the **ServicingRings.ps1** script.
+The following visuals use the **ServicingRings.ps1** script.
 
 ![Servicing visualization](/images/servicingoverview.png)
 
